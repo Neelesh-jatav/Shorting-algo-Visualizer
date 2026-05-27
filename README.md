@@ -1,3 +1,3 @@
 
 
-Website Live : https://nikhileshbhagavan.github.io/-Sorting-Visualizer/
+Website Live : https://neelesh-jatav.github.io/Shorting-algo-Visualizer/
